@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ふたりは、ハニームーンにいくの。",
+  "base_artist": "アメリカ民謡研究会",
+  "createdAt": "2026-01-14T02:40:50.994476Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふたりは、ハニームーンにいくの。",
+      "artist": "アメリカ民謡研究会",
+      "has_synced": false,
+      "path": "select/pl_01_ふたりは、ハニームーンにいくの。_アメリカ民謡研究会.txt"
+    }
+  ]
+}
